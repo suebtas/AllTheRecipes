@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
   public static final String TAG = MainActivity.class.getSimpleName();
 
   private ListView mListView;
-  String url = "https://drive.google.com/open?id=0B3ce1t0Uk91Wdlc3LWw4Q002b28";
+  String url = "https://raw.githubusercontent.com/suebtas/AllTheRecipes/master/app/src/main/assets/recipes.json";
 
   ProgressDialog dialog;
 
